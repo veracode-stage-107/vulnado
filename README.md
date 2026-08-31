@@ -3,7 +3,7 @@ test 1 1
 test 2 2 2
 test 3 3 new
 test 4
-test 5 5test
+test 5 5test 6
 test 6 6 6 3
  test 7
  sca 1 1 1
